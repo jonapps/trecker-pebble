@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "JonApps",
+    "enableMultiJS": true,
+    "longName": "Trecker",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Trecker",
+    "targetPlatforms": [
+        "chalk"
+    ],
+    "uuid": "79b4f697-6aba-40e7-8791-daabcb04ddb6",
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": false
+    }
+}
